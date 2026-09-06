@@ -1,0 +1,12 @@
+Name: mc/mtl_wpn_t8_zm_towers_scorpion_claw_ball
+
+Techset: techset_331e85fa0bfc1145
+
+semantic,image_name
+aoMap,$white_ao
+emissiveMap,$gray_color
+thermalHeatmap,$gray_32_one_channel
+normalMap,$identitynormalmap
+glossMap,$white_gloss
+colorMap,$white_diffuse
+specColorMap,$specular

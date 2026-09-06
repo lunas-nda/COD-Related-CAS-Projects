@@ -1,0 +1,11 @@
+Name: mc/mtl_wpn_t8_zm_towers_scorpion_body_base
+
+Techset: techset_7cdf8869adc7f316
+
+semantic,image_name
+aoMap,i_mtl_wpn_t8_zm_towers_scorpion_body_base_o
+thermalHeatmap,$gray_32_one_channel
+normalMap,i_mtl_wpn_t8_zm_towers_scorpion_body_base_n
+glossMap,i_mtl_wpn_t8_zm_towers_scorpion_body_base_g
+colorMap,i_mtl_wpn_t8_zm_towers_scorpion_body_base_c
+specColorMap,i_mtl_wpn_t8_zm_towers_scorpion_body_base_s

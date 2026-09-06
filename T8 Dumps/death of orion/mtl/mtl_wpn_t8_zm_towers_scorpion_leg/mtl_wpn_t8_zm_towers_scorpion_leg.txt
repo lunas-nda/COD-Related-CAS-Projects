@@ -1,0 +1,12 @@
+Name: mc/mtl_wpn_t8_zm_towers_scorpion_leg
+
+Techset: techset_331e85fa0bfc1145
+
+semantic,image_name
+aoMap,i_mtl_wpn_t8_zm_towers_scorpion_leg_o
+emissiveMap,i_mtl_wpn_t8_zm_towers_scorpion_leg_e
+thermalHeatmap,$gray_32_one_channel
+normalMap,i_mtl_wpn_t8_zm_towers_scorpion_leg_n
+glossMap,i_mtl_wpn_t8_zm_towers_scorpion_leg_g
+colorMap,i_mtl_wpn_t8_zm_towers_scorpion_leg_c
+specColorMap,i_mtl_wpn_t8_zm_towers_scorpion_leg_s
